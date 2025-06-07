@@ -4,7 +4,7 @@
 
 ### GoIT fullstack developer course
 
-### [Zobacz online na GitHub Pages >>](https://brzozanet.github.io/goit-projekt-html-css/)
+### [Zobacz online na GitHub Pages >>](https://brzozanet.github.io/project-icecream/)
 
 **Strona Ice cream made with passion**, producenta lodów rzemieślniczych, wykonana jako SPA
 (_single-page-application_). Zawiera trzy główne działy: _About Us_, _How it's made?_ oraz _Our
@@ -29,7 +29,7 @@ Wykorzystane technologie i rozwiązania:
 - Node.js
 - Parcel
 
-![Screenshot App](https://raw.githubusercontent.com/brzozanet/goit-projekt-html-css/main/src/images/gh-cover-goit-html-css.png)
+![Screenshot App](https://raw.githubusercontent.com/brzozanet/project-icecream/main/src/images/gh-cover-goit-html-css.png)
 
 Aby uruchomić wersję developerską:
 
