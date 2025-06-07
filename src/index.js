@@ -1,13 +1,14 @@
-import './sass/main.scss';
+import "./sass/main.scss";
 
-import Swiper, { Pagination } from 'swiper';
+import Swiper from "swiper";
+import { Pagination } from "swiper/modules";
+
+Swiper.use([Pagination]);
 
 var swiper = new Swiper(".mySwiper", {
-  modules: [Pagination],
   slidesPerView: 1,
   spaceBetween: 5,
   pagination: {
-        el: ".swiper-pagination",
-      },
- });
-    
+    el: ".swiper-pagination",
+  },
+});
