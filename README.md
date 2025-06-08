@@ -1,29 +1,28 @@
 # 🍦 Projekt Ice Cream
 
-## HTML+CSS > Projekt grupowy
+### Projekt grupowy GoIT fullstack developer course
 
-### GoIT fullstack developer course
-
-Nowoczesna i responsywna strona internetowa dla firmy produkującej lody, zbudowana przy użyciu HTML, SASS i JavaScript. Strona wykonana jako SPA (_single-page-application_). Zawiera trzy główne działy: _About Us_, _How it's made?_ oraz _Our products_ oraz _Contact_. W pełni responsywny projekt powstał w oparciu o strategię _Mobile First_ w celu poprawy doświadczeń użytkownika na urządzeniach mobilnych, poprawę pozycjonowania w wynikach wyszukiwania, szybsze ładowanie stron, elastyczność i skalowalność oraz minimalizację zbędnych elementów. Zastosowanie preprocesora SASS spowodowało większą zwięzłość i czytelność kodu, możliwość wprowadzenia zmiennych oraz obsługi zagnieżdżania oraz modularność. Bundling aplikacji wykonany za pomoca Parcel, służącego do automatyzacji procesu budowania i dostarczania plików
-źródłowych (np. JavaScript, CSS, obrazy) do produkcji.
+Nowoczesna i responsywna strona internetowa dla firmy produkującej lody, zbudowana przy użyciu HTML, SASS i JavaScript. Strona wykonana jako SPA (_single-page-application_). Zawiera trzy główne działy: _About Us_, _How it's made?_ oraz _Our products_ oraz _Contact_. W pełni responsywny projekt powstał w oparciu o strategię _Mobile First_ w celu poprawy doświadczeń użytkownika na urządzeniach mobilnych, poprawę pozycjonowania w wynikach wyszukiwania, szybsze ładowanie stron, elastyczność i skalowalność oraz minimalizację zbędnych elementów. Zastosowanie preprocesora SASS spowodowało większą zwięzłość i czytelność kodu, możliwość wprowadzenia zmiennych oraz obsługi zagnieżdżania oraz modularność. Bundling aplikacji wykonany za pomoca Parcel, służącego do automatyzacji procesu budowania i dostarczania plików źródłowych (np. JavaScript, CSS, obrazy) do produkcji.
 
 ## 🌐 Demo
 
 Zobacz stronę online: [Ice Cream Project](https://brzozanet.github.io/project-icecream/)
 
-## 🛠 Użyte Technologie
+## 🛠 Użyte technologie
 
-- HTML5
-- SASS/SCSS
-- Flexbox
-- JavaScript
-- Node.js
-- Parcel (bundler)
-- Swiper.js (do karuzeli)
-- PostHTML (do includów)
-- GIT & GitHub
+- **HTML5** (struktura strony)
+- **CSS3** (stylowanie z wykorzystaniem metodologii BEM)
+- **SASS** (preprocesor CSS dla lepszej organizacji stylów)
+- **Flexbox** (elastyczny układ strony)
+- **JavaScript** (interaktywność strony)
+- **Node.js** (środowisko uruchomieniowe)
+- **Parcel** (bundler)
+- **Swiper.js** (do karuzeli)
+- **PostHTML** (do includów)
+- **Figma** (projekt graficzny)
+- **Git & GitHub** (kontrola wersji i hosting)
 
-## 📂 Struktura Projektu
+## 📂 Struktura projektu
 
 ```
 project-icecream/
@@ -38,7 +37,7 @@ project-icecream/
 └── README.md
 ```
 
-## 📱 Dostępne Strony i Funkcje
+## 📱 Dostępne strony i funkcje
 
 - **Strona Główna** - Landing page z sekcją hero
 - **O Nas** - Informacje o firmie
@@ -51,14 +50,30 @@ project-icecream/
 - Formularz kontaktowy z walidacją
 - Nawigacja przyjazna urządzeniom mobilnym
 
-## 🚀 Jak Rozpocząć
+## 📱 Responsywność
+
+Strona jest w pełni responsywna i dostosowana do następujących breakpointów:
+
+- Mobile: < 768px
+- Tablet: 768px - 1199px
+- Desktop: ≥ 1200px
+
+## 🔍 SEO i Wydajność
+
+- Zoptymalizowane obrazy
+- Semantyczny HTML
+- Szybkie ładowanie strony
+- Mobile-first approach
+- Dostępność (WCAG)
+
+## 🚀 Jak rozpocząć
 
 ### Wymagania
 
 - Node.js (wersja 12 lub wyższa)
 - npm (Node Package Manager)
 
-### Instalacja
+### Uruchomienie wersji developerskiej
 
 1. Sklonuj repozytorium
 
@@ -77,8 +92,6 @@ project-icecream/
    npm install
    ```
 
-### Wersja Developerska
-
 Aby uruchomić serwer deweloperski:
 
 ```bash
@@ -86,14 +99,6 @@ npm run dev
 ```
 
 Strona będzie dostępna pod adresem: `http://localhost:1234`
-
-### Budowanie Wersji Produkcyjnej
-
-Aby zbudować projekt do wersji produkcyjnej:
-
-```bash
-npm run build
-```
 
 ## 🌍 Wdrożenie
 
@@ -103,5 +108,7 @@ Projekt jest skonfigurowany do wdrożenia na GitHub Pages. Po zbudowaniu, strona
 ## 📝 Licencja
 
 Projekt jest objęty licencją ISC.
+
+<br>
 
 ![Screenshot App](https://raw.githubusercontent.com/brzozanet/project-icecream/main/src/images/gh-cover-goit-html-css.png)
