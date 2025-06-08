@@ -2,7 +2,7 @@
 
 ### Projekt grupowy GoIT fullstack developer course
 
-Nowoczesna i responsywna strona internetowa dla firmy produkującej lody, zbudowana przy użyciu HTML, SASS i JavaScript. Strona wykonana jako SPA (_single-page-application_). Zawiera trzy główne działy: _About Us_, _How it's made?_ oraz _Our products_ oraz _Contact_. W pełni responsywny projekt powstał w oparciu o strategię _Mobile First_ w celu poprawy doświadczeń użytkownika na urządzeniach mobilnych, poprawę pozycjonowania w wynikach wyszukiwania, szybsze ładowanie stron, elastyczność i skalowalność oraz minimalizację zbędnych elementów. Zastosowanie preprocesora SASS spowodowało większą zwięzłość i czytelność kodu, możliwość wprowadzenia zmiennych oraz obsługi zagnieżdżania oraz modularność. Bundling aplikacji wykonany za pomoca Parcel, służącego do automatyzacji procesu budowania i dostarczania plików źródłowych (np. JavaScript, CSS, obrazy) do produkcji.
+Strona internetowa dla firmy produkującej lody, zbudowana przy użyciu HTML, SASS i JavaScript. Strona wykonana jako SPA (_single-page-application_). Zawiera trzy główne działy: _About Us_, _How it's made?_ oraz _Our products_ oraz _Contact_. W pełni responsywny projekt powstał w oparciu o strategię _Mobile First_ w celu poprawy doświadczeń użytkownika na urządzeniach mobilnych, poprawę pozycjonowania w wynikach wyszukiwania, szybsze ładowanie stron, elastyczność i skalowalność oraz minimalizację zbędnych elementów. Zastosowanie preprocesora SASS spowodowało większą zwięzłość i czytelność kodu, możliwość wprowadzenia zmiennych oraz obsługi zagnieżdżania oraz modularność. Bundling aplikacji wykonany za pomoca Parcel, służącego do automatyzacji procesu budowania i dostarczania plików źródłowych (np. JavaScript, CSS, obrazy) do produkcji.
 
 ## 🌐 Demo
 
