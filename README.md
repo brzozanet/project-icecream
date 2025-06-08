@@ -34,7 +34,7 @@ Wykorzystane technologie i rozwiązania:
 Aby uruchomić wersję developerską:
 
 ```shell
-npm ci
+npm install
 ```
 
 ```shell
